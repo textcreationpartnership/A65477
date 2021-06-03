@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pride of Jordan spoiled Which magnified it self against the Lord and his people.</title>
+            <author>West, Robert, b. ca. 1613.</author>
+         </titleStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65477</idno><idno type="EEBO-CITATION">99828996</idno>
+  <idno type="VID">33431</idno>
+  <idno type="EEBO-PROQUEST">2240865862</idno>
+  
+            <idno type="STC">Wing W1390</idno>
+            <idno type="STC">ESTC R217319</idno>
+            <idno type="PROQUEST">99828996</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828996e"/>
+            <note>(EEBO-TCP ; phase 2, no. A65477)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33431)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1860:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pride of Jordan spoiled Which magnified it self against the Lord and his people.</title>
+                  <author>West, Robert, b. ca. 1613.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed and dated: Written by Robert West in the year 1674.</note>
+                  <note>Place of print from Wing.</note>
+                  <note>Caption title on pg. 1: A living testimony against Thomas Hicks, and his confederates damnable heresie, folly, subtilty, and deceit, noted in his third book touching the light in man, with an epistle in brief to all the Baptist people, and others, that they may all come to repentance, and to the knowledge of the truth, and be saved in this the day of Gods great love.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Hicks, Thomas, 17th cent. --  Quaker condemned.</term>
+               <term type="uniform_title">Bible --  Criticism, interpretation, etc --  Early works to 1800.</term>
+               <term type="topical_term">Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33431:1"/>
+            <p>The Pride of JORDAN SPOILED. Which Magnified it self against the LORD AND HIS PEOPLE.</p>
+         </div>
+      </front>
+      <body>
+         <div type="testimony">
+            <pb facs="tcp:33431:2"/>
+            <pb n="1" facs="tcp:33431:2"/>
+            <head>A Living TESTIMONY against <hi>THOMAS HICKS,</hi> And his Confederates Damnable Heresie, Folly, Sub<g ref="char:EOLhyphen"/>tilty, and Deceit, noted in his Third Book touching the Light in Man, with an Epistle in brief to all the Baptist People, and others, that they may all tome to Repentance, and to the knowledge of the Truth, and be saved in this the day of Gods great Love.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving Demonstrated in a Treatise Printed in the Year 1672. <hi>Thomas Hicks</hi> his damnable Heresie in a Book Entituled, <hi>Damnable Heresie Discovered:</hi> To which <hi>Thomas Hicks</hi> replyed by way of Dia<g ref="char:EOLhyphen"/>logue, Fool-like, for it's their Nature when one do touch them to fall on another, he falls on the whole Body of Friends scornfully called Quakers; and my self amongst them, as his first Dialogue testifieth; and instead of confessing his Er<g ref="char:EOLhyphen"/>rors and Folly, proceeds, charging me for saying things in my Book which are not in my Book, perverting my sayings, as his manner is, by adding words of his own to them, as may appear by his Book, and mine compared together; and to cover him<g ref="char:EOLhyphen"/>self in this deceit; saith, that the Scripture is his Rule in Faith and Practice; upon this I replyed, when I saw his Book to ma<g ref="char:EOLhyphen"/>nifest his Folly in Print, in a Second small Treatise, Printed in the Year 1673, <hi>&amp;c.</hi> And now reading a Third Book of his, set forth by him by way of Dialogue, Entituled, <hi>The Quaker condemn'd out of his own Mouth:</hi> In reading of this Book, I un<g ref="char:EOLhyphen"/>derstanding thereby the Controversie about the Light in Man, by him again revived, and denyed to be God, or Christ, <hi>&amp;c.</hi> But by him affirmed to be Man's Spirit; upon this I was mo<g ref="char:EOLhyphen"/>ved
+<pb n="2" facs="tcp:33431:3"/>by the Lord, who is a Living Witness to manifest his Folly and damnable Heresie in order hereto, for the help of the weak understanding I shall proceep by way of particulars, and touch<g ref="char:EOLhyphen"/>briefly on each particular; and first, to the first:</p>
+            <p n="1">1. <hi>Tho Hicks</hi> saith, that the Light in every man is man's Spirit, a Croature; that Man's Spirit is a Creature, I do con<g ref="char:EOLhyphen"/>fess; because the Holy Scripture testifieth to it, <hi>Esay</hi> 47.16. But that mans Spirit is the Light that convinceth the World of sin, as <hi>Tho. Hicks</hi> hath affirmed, that I do deny; and this is my first particular.</p>
+            <p n="2">2. <hi>Tho. Hicks</hi> hath affirmed in his Third Book, p. 8, 9. that it ought to be obeyed; this second particular also I do deny upon this account of being man's Spirit; but before I give my reason, Reader, Not, <hi>Tho. Hicks</hi> for his affirmation touching this parti<g ref="char:EOLhyphen"/>cular, brings no Holy Scripture for confirmation, but his own private sayings; nor indeed, mark! no Holy Scripture given by Divine inspiration is, as <hi>Tho. Hicks</hi> his sayings are, <hi>&amp;c.</hi> there<g ref="char:EOLhyphen"/>fore let <hi>Tho. Hicks</hi> his affirmation be tryed by Holy Scripture: and first to the first particular.</p>
+            <p>He affirms the Light in every man that convinces them of sin, is man's Spirit; and yet brings no holy Scripture for confir<g ref="char:EOLhyphen"/>mation of it; for as I said before, nor can he, nor no holy mans sayings for it, but his own saying: and yet saith the Scrip<g ref="char:EOLhyphen"/>ture is his Rule in Faith and Practice; therefore according to holy Scripture shall he be tryed: <hi>Tho.</hi> stand to thy Tryal: Mark! It was the promise of the Father in the last dayes to pour out of his Spirit upon all Flesh, and saith, Christ when he is come, he shall convince the World of sin; if so, why should not this Light in all men that convinceth them of sin, be the promise of the Father, seeing that it doth the work which Christ fore<g ref="char:EOLhyphen"/>told it should do, <hi>viz.</hi> convince the World of sin, os Scripture witnesseth; besides many thousands of the Lords People, that testifie according to holy Scripture, that this is that Spirit that convinceth of sin, the promise of the Father; to which I testi<g ref="char:EOLhyphen"/>fie, and have within these 18. Years nine times in Print gave a
+<pb n="3" facs="tcp:33431:3"/>testimony, besides many suffering for it: if so, then why should not that judgment be given on <hi>Tho. Hicks</hi> as it is written, every tongue that rises up in judgment against thee thou shalt condemn: for he saith that the light in every man, which convinceth them of sin, is mans spirit: one witness more I shall produce, that it is the breath of the power of God, the brightness of the everlasting Light entering into holy souls in all ages: Mark, in all ages, makes them friends of God, and holy Prophets, <hi>Wisd.</hi> 7. Now <hi>Tho. Hicks</hi> to me hath said, that the breath God breathed into <hi>Adam</hi> was mans spirit, the light in every man, <hi>&amp;c.</hi> Mark, the breath God breathed into <hi>Adam,</hi> by which man came to be a living soul, my testimony is, was the Creating spirit; for it is written, by the breath of the Lord were the Heavens made, and all the host of them: therefore it cannot be mans spirit; because, as Scripture testifieth, mans spirit was a created spirit, and called a Candle; but the Creating spirit is the light that lights it, as Scripture witnesseth: therefore according to holy Scripture, <hi>Tho. Hicks,</hi> this is thy sentence: Thee and thy Consederates are found Lyers, <hi>Deut.</hi> 33.29.</p>
+            <p>Now I shall touch upon the second Particular: Thou hast af<g ref="char:EOLhyphen"/>firmed that the Light within is mans Spirit, and that it ought to be obeyed: that it ought to be obeyed, is thy second Particular. Thou art to take notice of, on the Tryal; that thou hast so said, thy third Dialogue testifieth, <hi>page</hi> 8, 9. this I do deny, for these Reasons following.</p>
+            <p n="1">1. Thou thy self confesseth that Mans Spirit is a Creature, as thy Books will testifie; and now, according to thy own saying shall thy Sentence be: In a publick Dispute with me before ma<g ref="char:EOLhyphen"/>ny witnesses, thou saist the Quakers were Idolators, and that thou wouldest prove; the way that then thou tookest to prove them was thus: The Light in Man is a Creature: the Quakers Worship the Light within: now to Worship a Creature, is Ido<g ref="char:EOLhyphen"/>latry, saist thou, and breaking Gods Commandments. I confess, if the light within be a Creature, thou hast said right: but it's proved, according to holy Scripture, that it is a Creating Spirit,
+<pb n="4" facs="tcp:33431:4"/>no Creature therefore, thou art found a Lyar according to thy own words, and a blasphemer of the Lords People, <hi>&amp;c.</hi> and not only so, but also a private bringer in of Damnable Heresie, as may appear, thus the holy Scriptures testifie, that <hi>John</hi> bore wit<g ref="char:EOLhyphen"/>ness to the Truth; the same <hi>John</hi> testifieth, that was the true Light which lighteth every man that cometh into the world, and Christ saith, <hi>I am the Light of the world;</hi> and the Spirit testifi<g ref="char:EOLhyphen"/>eth, that he which tryeth the Reins and Hearts, is he that was dead, and is alive, pointing to, and speaking of Christ, who gave his Life a Ransom for all, in tasting Death for every man; by this means many came by Christ to be bought: Now, <hi>Tho. Hicks,</hi> thou art one that Christ bought, as is before noted, and thou art one that denyes the Lord that bought thee, in denying the Light within to be Christ, <hi>&amp;c.</hi> and this is the Reason why I have charged thee with damnable Heresie, <hi>&amp;c.</hi> thou sayest in thy book before noted, speaking of the Light within, upon the account of it to be mans spirit, that it ought to be obeyed, which if on that account of being mans spirit, then according to thy own sayings, thou wouldst cause the People to be Idolaters, and not only so, as Scripture testifieth, thou wouldst lead the Peo<g ref="char:EOLhyphen"/>ple to be foolish, and see nothing, as may appear thus, mans spi<g ref="char:EOLhyphen"/>rit is but a Candle singly considered, which of it self so consi<g ref="char:EOLhyphen"/>dered gives no light; if so, then they that follow it, as it is writ<g ref="char:EOLhyphen"/>ten, <hi>Ezek.</hi> 13.3. see nothing; such was the state of the foolish Prophets of <hi>Israel,</hi> and such is. and will be the state of all that follow thy Doctrine, to wit, foolish and see nothing; for thou hast said the Light within is mans spirit, and it ought to be o<g ref="char:EOLhyphen"/>beyed: again. this thy saying tends privately to bring out of order man, as Scripture witnesseth: for the God of Order, by virtue of himself, hath ordered man to have dominion over his own spirit: It is written, the spirit of the Prophets are subject to the Prophets, and the wise King saith, <hi>he that hath not power over his own spirit, is like a City without Walls, or broken down,</hi> Prov. 25.28. 1 Cor. 14.32. Again, mans spirit is the weak part, hence it is that the Prophet <hi>Malachi, Chap.</hi> 2. calls it <hi>she:</hi>
+               <pb n="5" facs="tcp:33431:4"/>Mark! He calls it <hi>she,</hi> and saith, take heed to your spirits and let none deal trayterously against the wise of his Youth: Mark! when men which have Dominion by vertue of the Lord over their spirits, lets in the motion of Satan into them, then it comes by the Devil, to be Imprisoned, through mans treacherous deal<g ref="char:EOLhyphen"/>ings with it, who had power over it, and then Death reigneth and hath Dominion over it, as it's written over them that sinneth, death hath dominion over both the man and his spirit because of disobedience to the Lord and man is under the dominion of sin, &amp; Satan and would remain so it Christ did not now as in the dayes of old, preach to the spirits in prison to the bringing them out of the prison House by his power out of the pitt wherein there is no water: of this I am a witness, Glory be to God for ever, <hi>Zach.</hi> 9.11.</p>
+            <p>By what is written may appear through the manifestation of Gods spirit what a sad state <hi>Tho. Hicks</hi> would lead men into by learning of them to obey the light within on the account of mans spirit: therefore as the wise King saith, cease to hear the instructi<g ref="char:EOLhyphen"/>ons that causeth to err from the words of knowledge, <hi>Prov.</hi> 19.27. for <hi>Tho. Hicks</hi> denys the light in every man to be God or Christ, and affirms the light in every man is mans spirit: this pri<g ref="char:EOLhyphen"/>vately ministreth occasion where it is Received to believe that there is but two spirits in all the world, <hi>viz.</hi> the Spirit of Man, which he calls the light in every man, and the spirit of the Devil, No God in them: for saith he in his first Book entituled <hi>A Dialogue betwen a Christian and a Quaker,</hi> p. 3. but if thou saist saith he, the light in every man is Christ and God, I do not only deny it, but charge it with Blasphemy. Mark! In this his say<g ref="char:EOLhyphen"/>ing, he hath belyed himself as may appear thus, the Scripture is his rule in Faith and Practise, as he saith, and yet upon so high concernment as the mistery of God in man is, to whom the Pro<g ref="char:EOLhyphen"/>phets give their testimony to, he hath denyed; and not only so, but blasphemously chargeth the Faith of Gods Elect, with blas<g ref="char:EOLhyphen"/>phemy without bringing any Scripture as a reason for it: therefore I say, in saying the Scripture is his Rule in Faith and Practise, he hath belied himself.</p>
+            <pb n="6" facs="tcp:33431:5"/>
+            <p> By what is written may appear, that on him and his Confede<g ref="char:EOLhyphen"/>rates is come what is noted in the Scriptures, Of truth the ene<g ref="char:EOLhyphen"/>mies of the Lord shall be found lyers, <hi>Deut.</hi> 33.29. the portion of lyers you may read <hi>Rev.</hi> 21.8. I testifie from the Lord in the joy of my soul, that the time is come, and coming, that Saviours are upon Mount <hi>Sion,</hi> to judge the mount of <hi>Esau,</hi> and the King<g ref="char:EOLhyphen"/>doms shall be the Lords, as he hath spoken by <hi>Obadiah.</hi> Amen.</p>
+            <p>A few words in love to the Congregration of the Baptised People in the <hi>Devises,</hi> whom I love in the Truth, when met to<g ref="char:EOLhyphen"/>gether to be read and confiderd amongst them, and also by all sorts of people, to satisfie them that do question whether the Light, who is the Lord, is in men before they do believe.</p>
+            <p>
+               <hi>Friends,</hi> In my old years I have this love for you all, I beseech you confider these three Particulars following.</p>
+            <p n="1">1. Whether you are Converted unto the Lord, yea, or no.</p>
+            <p n="2">2. If you think that you are Converted to God, whether that the Lord was in you before you were Converted, and that he was the Author of that work.</p>
+            <p n="3">3. If he was, what was that Spirit that wrought that work in you, if not the Light. God and Christ is Light and Spirit, as Scripture witnesseth; and as in days of old he did, so now in us he hath, and doth work all our works in us, <hi>Isa.</hi> 26.12. and we by him only make mention of his name, <hi>v.</hi> 13. before Conversion he was within us, calling to us, for the gifts, and calling of God are without Repentance, <hi>Rom.</hi> 11.29. and it was in order to it; therefore Repentance is said to be the gift of God, <hi>Acts</hi> 5.31. 2 <hi>Tim.</hi> 2.7, <hi>&amp;c.</hi>
+            </p>
+            <p>The cause why I have thus written to you is, I am jealous over you with a godly jealousie that you are not Converted, or you have forgotten the Lord that did Convert you, if ever you were Converted; for we that are Converted unto God, do know of a truth that the Gift and Covenant of God, Christ Jesus, the Light of the World, according to Gods Promise, as Scripture witnesseth, was in us, enlightening of us before we did believe, in order to our Repentance toward God and Faith towards our
+<pb n="7" facs="tcp:33431:5"/>Lord Jesus Christ, <hi>&amp;c.</hi> so that now we are Witnesses that the Lord was in us before Conversion, but we knew him not at that time; and now being Converted to that which may be known of God in us doth testifie, that that which may be known of God is now, as in times past, manifested within, <hi>Rom.</hi> 1.19. <hi>Luke</hi> 17.21. even the eternal Power and God-head. And this Trea<g ref="char:EOLhyphen"/>sure we have now in earthen Vessels, as they had in times past: as it is written, 2 <hi>Cor.</hi> 4.7. Confider of it, for my prayer to God is that you may all come to Repentance, and to the knowledg of the Truth, that so you may be saved by the Lord, and not always resist his holy Spirit, and tread under foot the blood of Gods Covenant, which is the Life of Jesus, wherewith we are sanctified. I say again, confider of it, and the great God, who is Light, give you all understanding in this the day of his love; for the Lords Spirit will not always strive with men, nor stir in me to write to you, <hi>&amp;c.</hi> Friends, take heed of being in Confederacy with <hi>Tho. Hicks,</hi> and his Party; lest whilst you are persuing the Quakers to prove them no Christians, you your selves are found to be no true Converts.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+            <postscript>
+               <head>Notations to Confidered.</head>
+               <p>An unconverted state is a perishing state, <hi>Luke</hi> 13.3.</p>
+               <p>Not to know Christ in one is reprobate state, 2 <hi>Cor.</hi> 13.5.</p>
+               <p>To deny Christ come in the flesh is an Antichristian state, 2 <hi>John</hi> v. 7.</p>
+               <p>To deny the Lord that bought one is damnable Heresie, <hi>&amp;c.</hi> 2 <hi>Pet.</hi> 2.1.</p>
+               <p>I have marvelled that Professors should be against perfection, attained in this life, until the Lord declared to me, that they that deny the light within to be Christ, should die in their sins, as it is written, and although a hundred years old should be accur<g ref="char:EOLhyphen"/>sed, <hi>Isa.</hi> 65.20.</p>
+               <p>Now if any Reader should think, touching so weighty a mat<g ref="char:EOLhyphen"/>ter,
+<pb n="8" facs="tcp:33431:6"/>that this is but a short Treatise, know, the time is come that a short work will the Lord make in righteousness in the earth.</p>
+               <closer>
+                  <signed>Written by <hi>Robert West</hi>
+                  </signed>
+                  <dateline>in the <hi>Devizes</hi> on <date>the 23d day of the 4th Month 1674</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <head>Postscript.</head>
+            <head type="sub">
+               <hi>Notations.</hi>
+            </head>
+            <p n="1">1. <hi>Tho Hicks</hi> hath belyed the Lord, in saying the light in eve<g ref="char:EOLhyphen"/>ry man is not Christ, contrary to <hi>Johns</hi> witness, and the Testi<g ref="char:EOLhyphen"/>mony of Jesus, <hi>John P. 9. oh.</hi> 8.12.</p>
+            <p n="2">2. He hath belyed the Spirit of Promise, in saying the spirit that convinceth the world of sin is mans spirit, contrary to the witness of Christ, <hi>John</hi> 6.14.</p>
+            <p n="3">3. He hath belyed mans Spirit, in saying the light in every man that Convinceth them of sin is mans spirit, for mans spirit is but the Candle, and they that follow it see nothing, <hi>Prov.</hi> 20. 27. <hi>Job</hi> 21.17. <hi>Ezek.</hi> 13.3.</p>
+            <p n="4">4. He hath belyed the breath God breathed into Man, by which Man became a Living soul, in that he hath said it's mans spirit, for the breath God breathed into man, as the wise King saith, is his wisdom, the brightness of the everlasting Light, as before is noted, and shall consume the man of sin, <hi>Wisd.</hi> 7.25. <hi>Isa.</hi> 11.4. 2 <hi>Thes.</hi> 2.8. <hi>Lam.</hi> 4.20. <hi>Gen.</hi> 2.7.</p>
+            <p n="5">5. He hath belyed the Lords People, whom the World in scorn calls <hi>Quakers,</hi> in saying they are Idolaters, and breakers of Gods Commands, because they worship the Light within, as they were, saith he, that worshipped the Sun, Dialogue 1. p. 46.</p>
+            <p n="6">6. He hath belyed himself, in saying the Scripture is his Rule in Faith and Practice, for he hath denyed the Light with<g ref="char:EOLhyphen"/>in that tryeth the Reins and Heart to be God and Christ, to
+<pb n="9" facs="tcp:33431:6"/>which the Scripture witnesseth, <hi>Col.</hi> 1.27. <hi>Rev.</hi> 2.23. Now they that are ruled by the power of God, believes, and are ruled according to holy Scripture in Faith, and Practice, <hi>&amp;c.</hi>
+            </p>
+            <p n="7">7. He hath belyed me in giving a false Relation, touching what I said in my book, as may appear by his first Dialogue, <hi>pag.</hi> 5. compared to that Book he alludes to of mine: saith, <hi>R. W.</hi> a Quaker published a Pamphlet intituled <hi>Damnable Heresie disco<g ref="char:EOLhyphen"/>vered;</hi> wherein he arreigneth, and condemneth as guilty of dam<g ref="char:EOLhyphen"/>nable Herisie, <hi>viz.</hi> the denying to worship the measure of light in every man: this saying is false: it was because he denyed the light in every man which convinceth them of sin to be the Lord, <hi>&amp;c.</hi>
+            </p>
+            <p n="8">8. I charge him for a supected lye, he saith many Quakers that read this particular in my book condemns it, and censures the Person that asserted it: this I suspect to be a lye, because there is no such Particular in that book to read, <hi>viz</hi> to worship the measure of light in every man, the word <hi>measure of Light</hi> is not in all the Book, <hi>&amp;c.</hi>
+            </p>
+            <p>Mark! <hi>Tho. Hicks</hi> saith in his first Dialogue, <hi>pag.</hi> 53. <hi>He that shall give a false relation of another mans assertion, such a man is false and deceitful.</hi> Again, in his first book <hi>page</hi> 74. he hath be<g ref="char:EOLhyphen"/>lyed me in saying, that I say, it is damnable Heresie to say Christ was not actually exhibited in the time of <hi>Moses:</hi> these are his sayings, not mine, upon his affirming that whilst Christ was figur<g ref="char:EOLhyphen"/>ed out in Types, he was not actually in being. I said he was Antichrist, because, as Scripture witnesseth, Christ by his Spirit Preached in the days of <hi>Noah</hi> to the spirits that sometimes were disobedient, and was in the Church in the Wilderness, <hi>&amp;c.</hi>
+            </p>
+            <p>It is written, a Heretick is condemned of himself, <hi>Titus</hi> 3.11.</p>
+            <p>Finally, what is written may appear that <hi>Tho. Hicks,</hi> according to his own saying, is a Heretick, and hath mortally wounded his own design, which was to make void the light in every man, by his denying it to be the true light which <hi>John</hi> bore witness to, and to prove the Quakers to be idolaters, and to be no Christi<g ref="char:EOLhyphen"/>ans. This was by him designed as, by all his three Books, may
+<pb n="10" facs="tcp:33431:7"/>appear; and to this his design: he hath, I say again, given a Mortal wound in saying the Light in every man is a Creature, and ought to be obeyed, <hi>Dialogue</hi> 3. <hi>p.</hi> 8, 9.</p>
+            <p>So on him is come, as is noted in Scriptures of truth: I say again this note an Heretick condemns himself, <hi>Tit.</hi> 3.11. who is after the first and second admonition to be rejected, by what is written may appear is come upon him and his Confederates the wicked are ensnared in the works of his own hands, the Heathen is sunk down in the pit they made, in the Net they hid is their own Foot taken, <hi>Psal. 9. Glory be to God for ever, and for ever, who hath manifested it, and let all Gods People say</hi> Amen. <hi>Selah.</hi>
+            </p>
+            <p>One thing more I will desire the Reader to take notice of; One of <hi>Tho. Hicks</hi> his Confederates a teaching man, on his under<g ref="char:EOLhyphen"/>standing I coming for <hi>London</hi> to give a Testimony against the afore said Heresie, said, Now the Maggot moveth, because I said I was moved of the Lord to manifest his folly, thus he speakes evil of the Lord and his People, for his words are against others besides my self; surely as it's written, the pride of <hi>Jor<g ref="char:EOLhyphen"/>dan</hi> is spoyled, <hi>Zach.</hi> 11.3.</p>
+            <p>I say again, the pride of <hi>Jordan</hi> is spoiled, who thought to make void the Light in man to be of God or Christ, by deny<g ref="char:EOLhyphen"/>ing of it. 2. To make void the Faith of Gods Elect by charg<g ref="char:EOLhyphen"/>ing of it with Blasphemy. 3. To bring in contempt the Chil<g ref="char:EOLhyphen"/>dren of the Light, by saying that they which worship the Light within are idolaters, and breakers of Gods Command, and that they were no Christians: by what is written may appear, that <hi>Tho. Hicks,</hi> and his Confederates are but water Christians, no true Converts, for they that were converted unto God, were bap<g ref="char:EOLhyphen"/>tized into Christ, who was in them the hope of Glory, a quick<g ref="char:EOLhyphen"/>ning spirit; <hi>he that hath an ear to hear let him hear.</hi> Thus I have born my testimony for the Lord, and against deceit, and in so doing I have cleared my Conscience, and am free from the Blood of all men.</p>
+            <closer>
+               <signed>
+                  <hi>Written by</hi> Robert West</signed>
+               <dateline>
+                  <date>
+                     <hi>in the Year</hi> 1674.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
